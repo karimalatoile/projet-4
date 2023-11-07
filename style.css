@@ -60,6 +60,7 @@ p {
     font-family: Brush Script MT;
     text-align: center;
     font-size: 40px;
+    color: brown;
 
 }
 
@@ -73,10 +74,16 @@ p {
 }
 
 .discover {
-    background-color: blue;
     align-items: center;
     justify-content: center;
     background-image: url("asset/discover.jpg");
     background-size: cover;
     height: 1000px;
+}
+.disc{
+    color: brown ;
+    font-family: Brush Script MT;
+    text-align: center;
+
+    
 }
