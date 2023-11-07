@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.fond {
+
+    background-image: url("asset/back claire.jpg");
+    background-size: cover;
+    font-family: Brush Script MT;
+}
+
+nav {
+    background-color: bisque;
+    margin-bottom: 100px;
+
+}
+
+
+.banniere {
+    display: flex;
+    justify-content: center;
+    font-family: Brush Script MT;
+    align-items: center;
+    height: 80vh;
+}
+
+.fond-container {
+    background-image: url("asset/rose.jpg");
+    background-size: cover;
+    height: 700px;
+
+}
+
+
+.section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.carteUn {
+    width: 400px;
+    height: 600px;
+    background-image: url("asset/gloss.jpg");
+    background-size: cover;
+}
+
+.carteDeux {
+    width: 400px;
+    height: 600px;
+    background-image: url("asset/pink.jpg");
+    background-size: cover;
+}
+
+.carteTrois {
+    width: 400px;
+    height: 600px;
+    background-image: url("asset/gloss\ brown.jpg");
+    background-size: cover;
+}
+
+p {
+    font-family: Brush Script MT;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.power {
+    color: white;
+    font-family: Jaldi, sans-serif;
+}
+
+.titre {
+    font-size: 50px;
+}
+
+.discover {
+    background-color: blue;
+    align-items: center;
+    justify-content: center;
+    background-image: url("asset/discover.jpg");
+    background-size: cover;
+    height: 1000px;
+}
